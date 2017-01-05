@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "Resume"; ObjectID = "M09-ab-x1R"; */
+"M09-ab-x1R.normalTitle" = "Resume";
+
+/* Class = "UIButton"; normalTitle = " 语音识别"; ObjectID = "PJN-Nv-XYr"; */
+"PJN-Nv-XYr.normalTitle" = " 语音识别";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "ZSC-JA-xgu"; */
+"ZSC-JA-xgu.normalTitle" = "Stop";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "c8J-wV-I6B"; */
+"c8J-wV-I6B.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "fH8-xD-kBI"; */
+"fH8-xD-kBI.normalTitle" = "Pause";
+
+/* Class = "UIButton"; normalTitle = "语音合成"; ObjectID = "kC0-sg-z4H"; */
+"kC0-sg-z4H.normalTitle" = "语音合成";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "vZg-hu-dRG"; */
+"vZg-hu-dRG.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
